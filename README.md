@@ -1,1 +1,1 @@
-# Minimal React Boiler Plate
+# My Awesome New App

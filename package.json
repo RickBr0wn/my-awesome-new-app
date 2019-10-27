@@ -1,5 +1,5 @@
 {
-  "name": "minimal-react-boilerplate",
+  "name": "my-awesome-new-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,17 +16,8 @@
       "pre-commit": "pretty-quick --staged && npm run lint && npm run test"
     }
   },
-  "author": "Rick Brown <ricky.brown.00@gmail.com> (https://github.com/RickBr0wn/minimal-react-boilerplate)",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RickBr0wn/minimal-react-boilerplate.git"
-  },
   "keywords": [],
-  "bugs": {
-    "url": "https://github.com/RickBr0wn/minimal-react-boilerplate/issues"
-  },
-  "homepage": "https://github.com/RickBr0wn/minimal-react-boilerplate#readme",
   "devDependencies": {
     "@babel/cli": "^7.6.4",
     "@babel/core": "^7.6.4",
@@ -66,5 +57,14 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-hot-loader": "^4.12.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickBr0wn/my-awesome-new-app.git"
+  },
+  "author": "Rick Brown <ricky.brown.00@gmail.com> (https://github.com/RickBr0wn/minimal-react-boilerplate)",
+  "bugs": {
+    "url": "https://github.com/RickBr0wn/my-awesome-new-app/issues"
+  },
+  "homepage": "https://github.com/RickBr0wn/my-awesome-new-app#readme"
 }
